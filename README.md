@@ -1,0 +1,2 @@
+# Marine-Ecosystem-Mining-Association-Rule-Analysis-of-Australian-Reefs
+🌊 Marine Ecosystem Mining: Analyzing 247MB of Reef Life Survey data from Australia. Using Python and unsupervised learning (Association Rule Mining) to detect keystone species and indicator associations across 10,000+ surveys. Features a robust data pipeline to handle 98.4% matrix sparsity for reef conservation insights. 🐠🦀
