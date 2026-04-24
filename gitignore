@@ -1,0 +1,17 @@
+# Dataset - too large to commit
+*.csv
+
+# Jupyter/Colab auto-generated checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Mac system files
+.DS_Store
+
+# Virtual environment
+venv/
+.env
